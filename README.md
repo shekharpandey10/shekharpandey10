@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m an MCA (Master of Computer Applications) student with a strong passion for coding, data science, and problem-solving. I'm particularly interested in using **Machine Learning** to solve real-world problems. Feel free to explore my repositories, and let's collaborate on exciting projects!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Java**, **Angular**, **Data Structures**, and **Machine Learning**.
+- 🌱 I’m currently learning **Java**, **React**, **Data Structures**, and **Machine Learning**.
 - 🔭 I’m focused on applying **Machine Learning** to environmental issues, particularly through a project on **Water Quality Prediction**.
 - 💬 Ask me about **Data Structures**, **Problem Solving**, **Machine Learning**, and **Water Quality Prediction**.
 - 📫 How to reach me: **sheakherpandey10@gmail.com**.
@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I’m an MCA (Master of Computer Applications) stu
 ## 🛠️ Technologies & Tools
 
 ### Languages:
-- **C** | **C++** | **Java** | **JavaScript** | **TypeScript** | **SQL**
+- **C** | **C++** | **Java** | **JavaScript** | **SQL**
 
 ### Frameworks:
-- **Angular** | **Spring Boot**
+- **React** | **Spring Boot**
 
 ### Tools:
 - **Git** | **VS Code** | **Jupyter** | **Spring Tool**
