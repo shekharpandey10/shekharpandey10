@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m an MCA (Master of Computer Applications) stu
 ## 🚀 About Me
 - 🌱 I’m currently learning **Java**, **React**, **Data Structures**, and **Machine Learning**.
 - 🔭 I’m focused on applying **Machine Learning** to environmental issues, particularly through a project on **Water Quality Prediction**.
-- 💬 Ask me about **Data Structures**, **Problem Solving**, **Machine Learning**, and **Water Quality Prediction**.
+- 💬 Ask me about **Data Structures**, **Problem Solving**, **Machine Learning**.
 - 📫 How to reach me: **sheakherpandey10@gmail.com**.
 - ⚡ Fun fact: **I love exploring how technology can improve lives and solve real-world challenges!**
 
@@ -22,20 +22,10 @@ Welcome to my GitHub profile! I’m an MCA (Master of Computer Applications) stu
 
 ## 🔍 Latest Project
 
-### [Water Quality Prediction using Machine Learning]
-This project aims to predict the quality of water using machine learning techniques. It focuses on building a model that can assess water quality based on various environmental factors such as pH levels, temperature, turbidity, dissolved oxygen, and more. By training the model with real-world data, this project helps in identifying potential risks and providing early warnings for water contamination.
-**Technologies Used:**
-- **Python** for data manipulation and model building
-- **scikit-learn** for machine learning algorithms (e.g., regression, classification models)
-- **TensorFlow** for deep learning models (if applicable)
-- **Pandas** and **NumPy** for data preprocessing
-- **Matplotlib** and **Seaborn** for data visualization
-
-
 
 ## 🌱 My Learning Path
 - Building a solid foundation in **Data Structures** and **Problem Solving** for optimized coding.
-- Learning **Java** and **Angular** for full-stack development, aiming to combine ML models with web applications.
+- Learning **Java** and **React** for full-stack development, aiming to combine ML models with web applications.
 
 ---
 
