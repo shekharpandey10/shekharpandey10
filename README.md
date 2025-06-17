@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m an MCA (Master of Computer Applications) stu
 - **Git** | **VS Code** | **Jupyter** | **Spring Tool**
 
 ## 🔍 Latest Project
-
+- Check it out: https://github.com/shekharpandey10?tab=repositories
 
 ## 🌱 My Learning Path
 - Building a solid foundation in **Data Structures** and **Problem Solving** for optimized coding.
